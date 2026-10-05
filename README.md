@@ -27,7 +27,7 @@ This module covers what relational databases are, the set up of BigQuery, and ba
 
 | Topic |  About |
 | ------ | ------ |
-| [Relational Database & SQL Concepts (Slides)](./01-slides/SQL-I-Intro-to-Queries-and-BigQuery.pdf) | • Database structure<br>• Table relationships<br>• Primary/Foreign keys<br>• Common data types |
+| [Relational Database & SQL Concepts (Slides)](https://ga-curriculum.github.io/sql-i-intro-to-queries-and-bigquery/01-slides/SQL-I-Intro-to-Queries-and-BigQuery.pdf){:target="_blank"} | • Database structure<br>• Table relationships<br>• Primary/Foreign keys<br>• Common data types |
 | [Set Up BigQuery](./02-setup/02-bigquery-setup-guide.md) | • Big Query basics<br>• Database connection<br>• Schema reading |
 | [SQL Fundamentals (SQL-I)](./03-sql-intro/03-intro-to-sql-I.md) | • `SELECT`, `FROM`, `LIMIT`<br>• `DISTINCT` clauses<br>• `ORDER BY` sorting<br>• `AS` aliasing<br>• `COUNT`, `SUM`, `AVG` |
 
